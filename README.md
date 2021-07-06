@@ -1,4 +1,4 @@
-<h3 align="center">Programadora front-end em produção</h3>
+<h3 align="center">Programadora front-end em produção</h3><br><br>
 
 - 📚 Estou estudando atualmente **CSS, Javascript e Bootstrap**
 
