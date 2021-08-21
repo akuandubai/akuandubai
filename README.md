@@ -3,6 +3,7 @@
 - 📚 Estou estudando atualmente **CSS, Javascript e Bootstrap**
 
 - 📫 Você pode entrar em contato comigo via **akuandubai@gmail.com**
+- Perfil temporariamente inativo**
 
 <br>
 <h3 align="left">Languages and Tools:</h3>
